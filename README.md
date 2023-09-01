@@ -1,4 +1,4 @@
-# allinone script<br>
+# allinone run script<br>
 本脚本用于软路由iStoreOS系统(x86_64)<br>
 执行这个脚本可以快速安装各类装机必备插件。<br>
 由于许多插件存放在`raw.githubusercontent.com`服务器<br>
@@ -39,3 +39,10 @@ wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescri
 <p>
  方式二: 下载release中的run文件。打开iStore商店，手动安装即可。
 </p>
+<br>
+
+![image](https://github.com/wukongdaily/allinonescript/assets/143675923/885169e1-68b6-4edf-8ece-ca6881d22faf)
+<br>
+# Refers to
+
+https://github.com/AUK9527/Are-u-ok/tree/main/x86
