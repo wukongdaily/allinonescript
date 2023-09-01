@@ -28,7 +28,7 @@
 # How to Use
 
 <p>
- 方式一:在软路由终端执行下列命令即可
+ <h3>方式一:在软路由终端执行下列命令即可</h3>
 </p>
 
 ```
@@ -37,7 +37,9 @@ wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescri
 ```
 
 <p>
- 方式二: 下载release中的run文件。打开iStore商店，手动安装即可。
+ <br>
+ <h3>方式二: 下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
+ 下载地址：https://github.com/wukongdaily/allinonescript/releases
 </p>
 <br>
 
