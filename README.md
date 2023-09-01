@@ -1,4 +1,4 @@
-# allinonescript<br>
+# allinone script<br>
 本脚本用于软路由iStoreOS系统(x86_64)<br>
 执行这个脚本可以快速安装各类装机必备插件。<br>
 由于许多插件存放在`raw.githubusercontent.com`服务器<br>
@@ -27,4 +27,15 @@
 
 # How to Use
 
-<code>wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run </code>
+<p>
+ 方式一:在软路由终端执行下列命令即可
+</p>
+
+```
+wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
+
+```
+
+<p>
+ 方式二: 下载release中的run文件。打开iStore商店，手动安装即可。
+</p>
