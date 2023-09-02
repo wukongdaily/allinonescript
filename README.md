@@ -27,6 +27,9 @@
 
 # How to Use
 
+![Static Badge](https://img.shields.io/badge/%E4%B8%89%E5%90%88%E4%B8%80-%E7%89%88%E6%9C%AC-F31E48?logoColor=0D66E7&labelColor=0D66E7)
+
+
 <p>
  <h3>方式一:   在软路由终端执行下列命令即可</h3>
 </p>
@@ -54,7 +57,27 @@ wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescri
 
 ![image](https://github.com/wukongdaily/allinonescript/assets/143675923/885169e1-68b6-4edf-8ece-ca6881d22faf)
 <br>
+
+![Static Badge](https://img.shields.io/badge/%E5%85%AD%E5%90%88%E4%B8%80-%E7%89%88%E6%9C%AC-F31E48?logoColor=8A2BE2&labelColor=8A2BE2)
+
+<h4>x86_64软路由</h4><br>
+
+```
+wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
+
+```
+
+<h4>arm软路由 (R2S、R4S等)</h4><br>
+
+```
+wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
+
+```
+
+<p>
 # Refers to
 
 https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
 https://github.com/megastep/makeself
+
+
