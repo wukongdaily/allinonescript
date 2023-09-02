@@ -1,5 +1,5 @@
 # allinone run script<br>
-本脚本用于软路由iStoreOS系统(x86_64)<br>
+本脚本用于软路由iStoreOS系统(x86_64、arm64)<br>
 执行这个脚本可以快速安装各类装机必备插件。<br>
 由于许多插件存放在`raw.githubusercontent.com`服务器<br>
 国内直接访问容易超时或者访问不到。<br>
@@ -28,17 +28,26 @@
 # How to Use
 
 <p>
- <h3>方式一:在软路由终端执行下列命令即可</h3>
+ <h3>方式一:   在软路由终端执行下列命令即可</h3>
 </p>
+
+<h4>x86_64软路由</h4><br>
 
 ```
 wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
 
 ```
 
+<h4>arm软路由 (R2S、R4S等)</h4><br>
+
+```
+wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
+
+```
+
 <p>
  <br>
- <h3>方式二: 下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
+ <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
  下载地址：https://github.com/wukongdaily/allinonescript/releases
 </p>
 <br>
@@ -47,4 +56,5 @@ wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescri
 <br>
 # Refers to
 
-https://github.com/AUK9527/Are-u-ok/tree/main/x86
+https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
+https://github.com/megastep/makeself
