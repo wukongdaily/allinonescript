@@ -74,7 +74,8 @@ wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinones
 
 ```
 
-<p>
+</p>
+ 
 # Refers to
 
 https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
