@@ -88,6 +88,10 @@ wget -qO /tmp/allmenu.run  https://raw.githubusercontent.com/wukongdaily/allinon
 
 </p>
 
+<p>
+ 这个版本可以自动识别ARM或者x86平台,只需要执行上述命令,不需要担心架构问题。目前只适配了iStoreOS固件。其他固件后续看情况哈。
+</p>
+
 
  
 # Refers to
