@@ -75,6 +75,20 @@ wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinones
 ```
 
 </p>
+
+<h1>带菜单版一键脚本(集合全部功能)</h1><br>
+
+![Static Badge](https://img.shields.io/badge/%E5%B8%A6%E8%8F%9C%E5%8D%95%E7%89%88%E6%9C%AC-8A2BE2?label=%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E8%A1%8C&labelColor=F31E48)
+<p>
+
+```
+wget -qO /tmp/allmenu.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/allmenu.run && chmod +x /tmp/allmenu.run  && /tmp/allmenu.run
+
+```
+
+</p>
+
+
  
 # Refers to
 
