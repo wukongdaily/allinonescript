@@ -37,14 +37,14 @@
 <h4>x86_64软路由</h4><br>
 
 ```
-wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
+wget -O /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
 
 ```
 
 <h4>arm软路由 (R2S、R4S等)</h4><br>
 
 ```
-wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
+wget -O /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
 
 ```
 
@@ -63,14 +63,14 @@ wget -qO /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescri
 <h4>x86_64软路由</h4><br>
 
 ```
-wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
+wget -O /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
 
 ```
 
 <h4>arm软路由 (R2S、R4S等)</h4><br>
 
 ```
-wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
+wget -O /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
 
 ```
 
@@ -86,7 +86,7 @@ wget -qO /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinones
 <p>
 
 ```
-wget -qO /tmp/allmenu.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/allmenu.run && chmod +x /tmp/allmenu.run  && /tmp/allmenu.run
+wget -O /tmp/allmenu.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/allmenu.run && chmod +x /tmp/allmenu.run  && /tmp/allmenu.run
 
 ```
 
