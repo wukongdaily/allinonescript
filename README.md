@@ -88,7 +88,7 @@ wget -O /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonesc
 <p>
 
 ```
-wget -O /tmp/allmenu.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/allmenu.run && chmod +x /tmp/allmenu.run  && /tmp/allmenu.run
+wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
 
 ```
 
