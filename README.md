@@ -51,7 +51,9 @@ wget -O /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescrip
 <p>
  <br>
  <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
- 下载地址：https://github.com/wukongdaily/allinonescript/releases
+ 下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
+ 如果run文件下载不下来可以在前面加上 <code> https://ghproxy.com/</code><br>
+ 举个栗子：<code>https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run</code><br>
 </p>
 <br>
 
