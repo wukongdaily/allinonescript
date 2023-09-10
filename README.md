@@ -102,6 +102,7 @@ wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescri
  
 # Refers to
 
+https://github.com/wukongdaily/commonscript<br>
 https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
 https://github.com/megastep/makeself
 
