@@ -99,10 +99,11 @@ wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescri
 </p>
 
 
- 
+# 其他OpenWrt系统的通用脚本
+https://github.com/wukongdaily/commonscript<br>
+
 # Refers to
 
-https://github.com/wukongdaily/commonscript<br>
 https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
 https://github.com/megastep/makeself
 
