@@ -27,63 +27,8 @@
 
 # How to Use
 
-![Static Badge](https://img.shields.io/badge/%E4%B8%89%E5%90%88%E4%B8%80-%E7%89%88%E6%9C%AC-F31E48?logoColor=0D66E7&labelColor=0D66E7)
-
-
 <p>
- <h3>方式一:   在软路由终端执行下列命令即可</h3>
-</p>
-
-<h4>x86_64软路由</h4><br>
-
-```
-wget -O /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
-
-```
-
-<h4>arm软路由 (R2S、R4S等)</h4><br>
-
-```
-wget -O /tmp/OPS.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPS.run && chmod +x /tmp/OPS.run && /tmp/OPS.run
-
-```
-
-<p>
- <br>
- <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
- 下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
- 如果run文件下载不下来可以在前面加上 <code> https://ghproxy.com/</code><br>
- 举个栗子：<code>https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run</code><br>
-</p>
-<br>
-
-![image](https://github.com/wukongdaily/allinonescript/assets/143675923/885169e1-68b6-4edf-8ece-ca6881d22faf)
-<br>
-
-![Static Badge](https://img.shields.io/badge/%E5%85%AD%E5%90%88%E4%B8%80-%E7%89%88%E6%9C%AC-F31E48?logoColor=8A2BE2&labelColor=8A2BE2)
-
-<h4>x86_64软路由</h4><br>
-
-```
-wget -O /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
-
-```
-
-<h4>arm软路由 (R2S、R4S等)</h4><br>
-
-```
-wget -O /tmp/OPSPVB.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/arm64/OPSPVB.run && chmod +x /tmp/OPSPVB.run && /tmp/OPSPVB.run
-
-```
-
-</p>
-
-<h1>带菜单版一键脚本(集合全部功能)</h1><br>
-
-![Static Badge](https://img.shields.io/badge/%E5%B8%A6%E8%8F%9C%E5%8D%95%E7%89%88%E6%9C%AC-8A2BE2?label=%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E8%A1%8C&labelColor=F31E48)
-
-<p>
- <h3> 在软路由终端执行下列命令即可(不区分CPU架构)</h3>
+ <h3> 方式一:   在软路由终端执行下列命令即可(不区分CPU架构)</h3>
 </p>
 <p>
 
@@ -97,6 +42,21 @@ wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescri
 <p>
  这个版本可以自动识别ARM或者x86平台,只需要执行上述命令,不需要担心架构问题。目前只适配了iStoreOS固件。其他固件后续看情况哈。
 </p>
+
+
+ <br>
+ <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
+ 下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
+ 如果run文件下载不下来可以在前面加上 <code> https://ghproxy.com/</code><br>
+ 举个栗子：<code>https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run</code><br>
+</p>
+<br>
+
+![image](https://github.com/wukongdaily/allinonescript/assets/143675923/885169e1-68b6-4edf-8ece-ca6881d22faf)
+<br>
+
+
+
 
 
 # 其他OpenWrt系统的通用脚本
