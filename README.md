@@ -1,10 +1,7 @@
 # allinone run script<br>
 本脚本用于软路由iStoreOS系统(x86_64、arm64)<br>
 执行这个脚本可以快速安装各类装机必备插件。<br>
-由于许多插件存放在`raw.githubusercontent.com`服务器<br>
-国内直接访问容易超时或者访问不到。<br>
-因此执行这个脚本之前，最好让软路由器启用一个科学插件<br>
-这样才能够保证快速安装。替换hosts的方式不能完全规避速度慢的问题。<br>
+
 
 <pre>
 
