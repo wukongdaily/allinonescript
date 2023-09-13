@@ -33,7 +33,7 @@
 <p>
 
 ```
-wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
+wget -O /tmp/all.run  https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
 
 ```
 
