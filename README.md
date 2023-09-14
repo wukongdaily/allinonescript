@@ -23,7 +23,7 @@
 6、自动更新OpenClash到最新版本<br>
 
 # How to Use
-
+ ![Static Badge](https://img.shields.io/badge/all%20in%20one%20script-8A2BE2?logo=black&logoColor=black&label=%E7%BB%88%E7%AB%AF)
 <p>
  <h3> 方式一:   在软路由终端执行下列命令即可(不区分CPU架构)</h3>
 </p>
@@ -41,8 +41,8 @@ wget -O /tmp/all.run  https://ghproxy.com/https://raw.githubusercontent.com/wuko
 </p>
 
 
- <br>
  <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
+ <img alt="Static Badge" src="https://img.shields.io/badge/xxx.run-FF4500?logo=black&logoColor=black&label=iStore%E5%95%86%E5%BA%97%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85"> 
  下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
  如果run文件下载不下来可以在前面加上 <code> https://ghproxy.com/</code><br>
  举个栗子：<code>https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run</code><br>
