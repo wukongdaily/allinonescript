@@ -59,6 +59,9 @@ wget -O /tmp/all.run  https://ghproxy.com/https://raw.githubusercontent.com/wuko
 # 其他OpenWrt系统的通用脚本
 https://github.com/wukongdaily/commonscript<br>
 
+# 便携路由器 GL-iNet MT-3000/MT2500
+https://github.com/wukongdaily/gl-inet-onescript
+
 # Refers to
 
 https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
