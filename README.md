@@ -63,8 +63,9 @@ https://github.com/wukongdaily/commonscript<br>
 https://github.com/wukongdaily/gl-inet-onescript
 
 # Refers to
-
-https://github.com/AUK9527/Are-u-ok/tree/main/x86 <br>
+https://github.com/linkease/istore<br>
+https://op.dllkids.xyz/packages<br>
+https://github.com/AUK9527/Are-u-ok<br>
 https://github.com/megastep/makeself
 
 
