@@ -15,12 +15,12 @@
  </pre>                                                      
                                                        
 # Features<br>
-1、设置好自定义域名劫持(主机名映射)，防止Android原生TV首次连接不到Wifi的情况。<br>
-2、设置Emotn Store的域名代理，防止出现打不开Emotn Store的问题<br>
-3、安装好软路由关机、定时设置等必备插件<br>
-4、批量下载安装三大插件（OPS）<br>
-5、自动补全各类Clash内核（dev、tun、meta）<br>
-6、自动更新OpenClash到最新版本<br>
+* 设置好自定义域名劫持(主机名映射)，防止Android原生TV首次连接不到Wifi的情况。<br>
+* 设置Emotn Store的域名代理，防止出现打不开Emotn Store的问题<br>
+* 安装好软路由关机、定时设置等必备插件<br>
+* 批量下载安装三大插件（OPS）<br>
+* 自动识别软路由架构
+* 其他等功能
 
 # How to Use
  ![Static Badge](https://img.shields.io/badge/all%20in%20one%20script-8A2BE2?logo=black&logoColor=black&label=%E7%BB%88%E7%AB%AF)
