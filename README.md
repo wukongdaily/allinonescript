@@ -22,6 +22,9 @@
 * 自动识别软路由架构
 * 其他等功能
 
+# 提示：如何使用ssh ？参考如下图文
+https://github.com/wukongdaily/HowToUseSSH
+
 # How to Use
  ![Static Badge](https://img.shields.io/badge/all%20in%20one%20script-8A2BE2?logo=black&logoColor=black&label=%E7%BB%88%E7%AB%AF)
 <p>
