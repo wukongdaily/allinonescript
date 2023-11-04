@@ -33,7 +33,7 @@ https://github.com/wukongdaily/HowToUseSSH
 <p>
 
 ```
-wget -O /tmp/all.run  https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
+wget -O /tmp/all.run  https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
 
 ```
 
@@ -47,8 +47,7 @@ wget -O /tmp/all.run  https://ghproxy.com/https://raw.githubusercontent.com/wuko
  <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
  <img alt="Static Badge" src="https://img.shields.io/badge/xxx.run-FF4500?logo=black&logoColor=black&label=iStore%E5%95%86%E5%BA%97%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85"> 
  下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
- 如果run文件下载不下来可以在前面加上 <code> https://ghproxy.com/</code><br>
- 举个栗子：<code>https://ghproxy.com/https://raw.githubusercontent.com/wukongdaily/allinonescript/main/x86/OPS.run</code><br>
+ 
 </p>
 <br>
 
@@ -68,7 +67,6 @@ https://github.com/wukongdaily/gl-inet-onescript
 # Refers to
 https://github.com/linkease/istore<br>
 https://op.dllkids.xyz/packages<br>
-https://github.com/AUK9527/Are-u-ok<br>
-https://github.com/megastep/makeself
+
 
 
