@@ -27,7 +27,8 @@
 https://github.com/wukongdaily/HowToUseSSH
 
 # How to Use
- ![Static Badge](https://img.shields.io/badge/all%20in%20one%20script-8A2BE2?logo=black&logoColor=black&label=%E7%BB%88%E7%AB%AF)
+ ![Static Badge](https://img.shields.io/badge/all%20in%20one%20script-8A2BE2?logo=black&logoColor=black&label=%E7%BB%88%E7%AB%AF) <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wukongdaily/allinonescript?labelColor=%23FF8C00&color=black">
+
 <p>
  <h3> 方式一:   在软路由终端执行下列命令即可(不区分CPU架构)</h3>
 </p>
@@ -46,8 +47,10 @@ wget -O /tmp/all.run https://cdn.jsdelivr.net/gh/wukongdaily/allinonescript@main
 
 
  <h3>方式二:   下载release中的run文件。打开iStore商店，手动安装即可。</h3><br>
- <img alt="Static Badge" src="https://img.shields.io/badge/xxx.run-FF4500?logo=black&logoColor=black&label=iStore%E5%95%86%E5%BA%97%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85%E5%8C%85"> 
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wukongdaily/allinonescript/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&labelColor=black">
  下载地址：https://github.com/wukongdaily/allinonescript/releases <br>
+
+
  
 </p>
 <br>
