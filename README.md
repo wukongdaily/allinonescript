@@ -35,7 +35,8 @@ https://github.com/wukongdaily/HowToUseSSH
 <p>
 
 ```
-wget -O /tmp/all.run https://cdn.jsdelivr.net/gh/wukongdaily/allinonescript@main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
+wget -O /tmp/all.run https://raw.githubusercontent.com/wukongdaily/allinonescript/main/all/all.run && chmod +x /tmp/all.run  && /tmp/all.run
+
 
 ```
 
